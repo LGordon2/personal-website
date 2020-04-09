@@ -17,7 +17,6 @@
 
 .project
 log
-Gemfile*
 bin
 db/*.sqlite3
 vendor
