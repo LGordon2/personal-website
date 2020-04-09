@@ -20,3 +20,4 @@ log
 bin
 db/*.sqlite3
 vendor
+_site
